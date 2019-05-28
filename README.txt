@@ -19,4 +19,4 @@ OS Version: Windows 10
 
 Walkthrough Video: https://www.youtube.com/watch?v=JpIDwltcHiU&feature=youtu.be
 
-GitHub: https://github.com/shanec612/SearchEngineAssignment
+GitHub: https://github.com/shanecolfer/Java-Search-Engine
