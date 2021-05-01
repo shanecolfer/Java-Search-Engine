@@ -1,4 +1,4 @@
-Shane's Search Engine
+Java Search Engine
 ----------------------------------------
 
 The aim of this project was to create a search engine for text files where the
